@@ -1,3 +1,3 @@
-# Novie-Programming-Lectures
+# Novice-Programming-Lectures
 
 The 'Novice Programming Lectures - Python for Absolute Beginners,' is a comprehensive 5-part series that introduces you to the world of programming using Python. In this beginner-friendly journey, you will start with the basics of Python syntax, progress through control structures and functions, delve into data structures and file handling, master error handling and debugging, and finally explore practical applications with popular libraries. Whether you're a complete newcomer or looking to strengthen your coding skills, these lectures will equip you with the knowledge and confidence to embark on your programming adventures
