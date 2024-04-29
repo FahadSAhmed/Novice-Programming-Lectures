@@ -5,8 +5,13 @@ The 'Novice Programming Lectures - Python for Absolute Beginners,' is a comprehe
 The lectures include:
 
 Lecture 1: Computer literacy
+
 Lecture 2: Programming Languages
-Lecture 3: Python coding 1: Basics
-Lecture 4: Python coding 2: Files and folders
-Lecture 5: Python coding 3: Statistics and graphs
-Lecture 6: Python coding 4: Basic Machine Learning
+
+Lecture 3: Python Coding 1: Basics
+
+Lecture 4: Python Coding 2: Files and Folders
+
+Lecture 5: Python Coding 3: Statistics and Graphs
+
+Lecture 6: Python Coding 4: Basic Machine Learning
